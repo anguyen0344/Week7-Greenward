@@ -1,0 +1,14 @@
+7B – Lesson Notes
+
+XAML defines the buttons and image preview.
+C# click handlers control what happens when a button is clicked.
+
+CaptureService captures the primary display and returns a BitmapSource.
+The app stores this image in capturedImage and displays it in CapturePreview.
+
+Saving converts the captured image into a PNG file.
+Cancelling the save dialog keeps the preview.
+Clear removes the stored image and preview.
+
+currentSlide controls the story position independently of the capture.
+A screenshot records the visible screen; a Git commit records the source code.
