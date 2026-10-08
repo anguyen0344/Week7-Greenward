@@ -10,11 +10,25 @@ public partial class MainWindow : Window
     // Each Slide keeps its text, image and description together.
     private record Slide(string Text, string ImagePath, string Description);
     private readonly Slide[] slides =
-    {
-        new Slide("A signal reaches the next crew. What do they need to know?", "Assets/Images/01.png", "A signal card: the story begins."),
-        new Slide("The crew compares the route with the last reliable observation.", "Assets/Images/02.png", "A route card: inspect the problem."),
-        new Slide("Leave a clear account for the next reader. Your story continues here.", "Assets/Images/03.png", "A handoff card: record the result.")
-    };
+ {
+    new Slide(
+        "Welcome to Greenward! You are joining Sana Vey's garden crew. "
+        + "The network is down, so this offline guide will help you begin.",
+        "Assets/Images/01.jpg",
+        "A new crew member arrives at Sana's garden."),
+
+    new Slide(
+        "You find an outdated instruction card beside the garden beds. "
+        + "Stop and ask Sana which instructions are current before starting.",
+        "Assets/Images/02.jpg",
+        "The new operator discovers an outdated instruction card."),
+
+    new Slide(
+        "Sana confirms the updated instructions and explains your first task. "
+        + "You are ready to join the crew. Use Back to review or Restart to begin again.",
+        "Assets/Images/03.jpg",
+        "Sana welcomes the new operator and explains the next step.")
+};
     private int currentSlide = 0; // Array positions start at zero.
 
     public MainWindow()
