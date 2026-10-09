@@ -23,7 +23,7 @@ Use fictional data only.
 Response:
 File: StoryGameApp/MainWindow.xaml.cs
 Method: SaveCaptureButton_Click
-Input: On slide 2, capture the screen, click Save PNG, then Cancel.
+Input: On slide 1, capture the screen, click Save PNG, then Cancel.
 Expected output: No new file is created. The preview remains,
 and currentSlide stays unchanged.
 
