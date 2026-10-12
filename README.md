@@ -74,7 +74,9 @@ These results come from the student's recorded 7A/7B checks, not an independent 
 |Final Release build|Pass- Release build: 1 succeeded, 0 failed. Evidence: Evidence/Final/release-build.png|
 |Another person extracts, builds and runs the source ZIP|PASS — See Evidence/Final/handoff-test.md.|
 
-The AI check tested cancelling Save after capturing slide 1 (currentSlide = 0). The preview and slide position remained unchanged, and no new file was created. Decision: Keep. See Evidence/7B.Tutorial
+The AI check tested cancelling Save after capturing slide 1 (currentSlide = 0). The preview and slide position remained unchanged, and no new file was created. Decision: Keep. See Evidence/7B.
+
+## Tutorial
 
 * [Editable tutorial](Evidence/Final/Greenward-Tutorial.pptx)
 * [PDF tutorial](Evidence/Final/Greenward-Tutorial.pdf)
@@ -92,7 +94,8 @@ The tutorial covers the user story, story flow, prototype and app comparison, on
 
 The app requires Windows and .NET 10. It captures the entire primary display, including other visible windows. It has a linear three-slide story. Sound and branching are optional and omitted.
 
-Next: finish Release and independent ZIP verification, record any repair and retest, add the course route receipt, and push the final package. A later improvement could capture only the app window.
+Next: submit the tested repository URL through Canvas.
+A later improvement could capture only the app window.
 
 ## Source Package
 
