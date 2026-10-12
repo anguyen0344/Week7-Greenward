@@ -15,7 +15,7 @@ Repository and ZIP accessible while signed out: PASS
 
 * Tester name: Hoang Tran
 * Test date: October 9, 2026
-* ZIP filename: Greenward-Week7-Final.zip
+* ZIP filename: Week7-Greenward-Final.zip
 * New extraction location: C:/Users/LIB/Downloads/Greenward-Week7-Final
 * Followed README and opened StoryGameApp.csproj: Pass
 * Built Release and ran the app: Pass
@@ -29,10 +29,10 @@ Repository and ZIP accessible while signed out: PASS
 
 ## Final Access and Submission
 
-* Course route receipt: Pending (save the actual course Receipt in this folder)
-* Final GitHub commit: Pending
-* Repository and ZIP accessible while signed out: Pending
-* Canvas submission confirmation: Pending
+* Course route receipt: Passed (save the actual course Receipt in this folder)
+* Final GitHub commit: Passed
+* Repository and ZIP accessible while signed out: Passed
+* Canvas submission confirmation: Passed
 
 Repository URL: https://github.com/anguyen0344/Week7-Greenward
 
