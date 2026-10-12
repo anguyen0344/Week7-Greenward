@@ -1,6 +1,8 @@
 # Final Handoff Test
 
-Status: Pending. Replace each pending entry with the actual result.
+Status: Build and peer verification passed. Canvas submission pending.
+Course route receipt: route-receipt.html
+Repository and ZIP accessible while signed out: PASS
 
 ## Release Build
 
