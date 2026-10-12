@@ -2,6 +2,19 @@
 
 CS110 Week 7 WPF story app by An Nguyen
 
+## Grading Guide — Week 7 Requirements R1–R6
+
+Please review Evidence/7A and Evidence/7B as part of this Week 7 final submission. These Action folders contain the planning, implementation, testing, and AI evidence reused for the weekly requirements. Final packaging and handoff evidence is in Evidence/Final.
+
+| Requirement | Evidence to review |
+| --- | --- |
+| R1 — Plan for one reader | [7A planning and user story](Evidence/7A/README.md), [whiteboard](Evidence/7A/Whiteboard.jpg), and [visual prototype](Evidence/7A/Greenward-7A-Prototype-Updated.pptx). |
+| R2 — Build and record 7A | [WPF source](StoryGameApp), [7A test record](Evidence/7A/README.md), screenshots of [slide 1](Evidence/7A/slide-1.png), [slide 2](Evidence/7A/slide-2.png), [slide 3](Evidence/7A/slide-3.png), and [Discord evidence](Evidence/7A/Discord.jpg). |
+| R3 — Add screen capture | [Capture helper](StoryGameApp/CaptureService.cs), [event handlers](StoryGameApp/MainWindow.xaml.cs), [capture preview](Evidence/7B/capture-preview.png), [saved PNG](Evidence/7B/story-capture.png), and [capture test results](Evidence/7B/README.md). |
+| R4 — Test and record 7B | [7B test and AI record](Evidence/7B/README.md), [AI screenshot](Evidence/7B/AI-suggestion.jpg), [lesson notes](Evidence/7B/lesson-notes.txt), [whiteboard 1](Evidence/7B/whiteboard1.jpg), [whiteboard 2](Evidence/7B/whiteboard2.jpg), and [Discord evidence](Evidence/7B/discord.jpg). |
+| R5 — Explain and package | Setup, controls, code map, tests, credits, and limitations in this README; [editable tutorial](Evidence/Final/Greenward-Tutorial.pptx), [PDF tutorial](Evidence/Final/Greenward-Tutorial.pdf), [Release-build evidence](Evidence/Final/release-build.png), [source ZIP](Evidence/Final/Week7-Greenward-Final.zip), [peer test record](Evidence/Final/handoff-test.md), and [peer screenshots](Evidence/Final/peer-check-screenshots). |
+| R6 — Submit one GitHub URL | [Course route receipt](Evidence/Final/route-receipt.html) and [handoff/access record](Evidence/Final/handoff-test.md). The repository URL for Canvas is https://github.com/anguyen0344/Week7-Greenward. |
+
 ## Intended User and Purpose
 
 As a new member of Sana Vey's garden crew, I want an illustrated offline guide so I can follow the current instructions when the network is down.
